@@ -36,7 +36,7 @@ export default function Main(){
           <div className="absolute inset-0 transform translate-x-4 translate-y-4 bg-gray-300 rounded-l-lg w-full h-full"></div>
           <img
             src="../src/assets/Niku.jpg"
-            alt="Prashant"
+            alt="Nikita"
             className="relative z-10 w-80 h-86 rounded-l-lg border-2 border-black object-cover"
           />
         </div>
